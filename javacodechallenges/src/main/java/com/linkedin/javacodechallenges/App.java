@@ -8,7 +8,7 @@ public class App {
         // 4 % 2 = 0
         // 3 % 2 = 1
         // 6 % 2 = 0
-        return n % 2 == 0;
+        return n%2 == 0;
         // return (n & 1) == 0;
     }
 
